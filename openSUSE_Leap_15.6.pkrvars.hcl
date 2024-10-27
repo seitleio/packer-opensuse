@@ -1,0 +1,2 @@
+iso_url = "https://ftp.uni-erlangen.de/opensuse/distribution/leap/15.6/iso/openSUSE-Leap-15.6-DVD-x86_64-Build710.3-Media.iso"
+iso_checksum = "sha256:a74d4072e639c75ca127df3d869c1e57bcc44a093a969550f348a3ead561fe4f"
